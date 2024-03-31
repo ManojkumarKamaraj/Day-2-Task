@@ -1,0 +1,1 @@
+The has the difference between Browser Object and Window object Model file
